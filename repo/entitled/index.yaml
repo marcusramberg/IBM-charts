@@ -22,7 +22,7 @@ entries:
     name: ibm-apiconnect-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.6.tgz
     version: 1.0.6
   - appVersion: 2018.4.1.10
     created: 2020-03-30T18:51:50.882458547Z
@@ -45,7 +45,7 @@ entries:
     name: ibm-apiconnect-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.5.tgz
     version: 1.0.5
   - appVersion: 2018.4.1.8
     created: 2019-11-29T00:42:47.562235697Z
@@ -68,7 +68,7 @@ entries:
     name: ibm-apiconnect-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.4.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.4.tgz
     version: 1.0.4
   - appVersion: 2018.4.1.7
     created: 2019-10-31T15:22:06.768057Z
@@ -91,7 +91,7 @@ entries:
     name: ibm-apiconnect-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.3.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.3.tgz
     version: 1.0.3
   - appVersion: 2018.4.1.7
     created: 2019-09-25T18:27:42.751291776Z
@@ -114,7 +114,7 @@ entries:
     name: ibm-apiconnect-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apiconnect-icp4i-prod-1.0.2.tgz
     version: 1.0.2
   ibm-apm-ema-bundle-prod:
   - apiVersion: v1
@@ -122,7 +122,7 @@ entries:
     created: 2021-01-05T17:57:00.257529647-05:00
     description: A Helm Chart for IBM Equipment Maintenance Assistant
     digest: 0726d0b841552d42495d15886807c7003b034d2feade2d9eb5330b7013490c25
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ema.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ema.svg?sanitize=true
     keywords:
     - amd64
     - Watson
@@ -132,7 +132,7 @@ entries:
     name: ibm-apm-ema-bundle-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apm-ema-bundle-prod-1.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apm-ema-bundle-prod-1.1.0.tgz
     version: 1.1.0
   ibm-apm-ema-prod:
   - apiVersion: v1
@@ -140,7 +140,7 @@ entries:
     created: 2020-04-30T14:39:43.989068194Z
     description: A Helm Chart for IBM Equipment Maintenance Assistant
     digest: e098baf64f02a33c2e7f7dcb542319f3f48b6318ff2bcecb50b1e935959d247b
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ema.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ema.svg?sanitize=true
     keywords:
     - amd64
     - Watson
@@ -150,14 +150,14 @@ entries:
     name: ibm-apm-ema-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apm-ema-prod-1.1.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apm-ema-prod-1.1.1.tgz
     version: 1.1.1
   - apiVersion: v1
     appVersion: "1.0"
     created: 2020-03-09T14:03:48.433000934-07:00
     description: A Helm Chart for IBM Equipment Maintenance Assistant
     digest: 22d9e5f9601fd95c4e24109ac889bc9939189bef2c1186eadeb1d2a89a503680
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ema.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ema.svg?sanitize=true
     keywords:
     - amd64
     - Watson
@@ -167,7 +167,7 @@ entries:
     name: ibm-apm-ema-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-apm-ema-prod-1.1.0+hotfix.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-apm-ema-prod-1.1.0+hotfix.1.tgz
     version: 1.1.0+hotfix.1
   ibm-aspera-hsts-icp4i:
   - apiVersion: v1
@@ -175,7 +175,7 @@ entries:
     created: 2020-03-30T18:51:50.895031065Z
     description: IBM Aspera High-Speed Transfer Server
     digest: 2dcf59eed5d1670422b68e35bd8e1b4cded8865d85a48f6714ef1d11db4f624f
-    icon: https://raw.githubusercontent.com/IBM/charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
     keywords:
     - Aspera
     - amd64
@@ -190,14 +190,14 @@ entries:
     name: ibm-aspera-hsts-icp4i
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.3.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.3.0.tgz
     version: 1.3.0
   - apiVersion: v1
     appVersion: 3.9.1
     created: 2019-11-29T00:42:47.571008944Z
     description: IBM Aspera High-Speed Transfer Server
     digest: 7df2d30288159a27f2cd2df23a483ae1a3297b5b21350cb8333e778960995a6c
-    icon: https://raw.githubusercontent.com/IBM/charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
     keywords:
     - Aspera
     - amd64
@@ -212,14 +212,14 @@ entries:
     name: ibm-aspera-hsts-icp4i
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.2.4.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.2.4.tgz
     version: 1.2.4
   - apiVersion: v1
     appVersion: 3.9.1
     created: 2019-10-31T15:22:06.775809373Z
     description: IBM Aspera High-Speed Transfer Server
     digest: 235ef1ccb31b3859327acf9aeefc431663ea317a712aa27c2cb498f58c1c6baa
-    icon: https://raw.githubusercontent.com/IBM/charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
     keywords:
     - Aspera
     - amd64
@@ -234,14 +234,14 @@ entries:
     name: ibm-aspera-hsts-icp4i
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.2.3.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.2.3.tgz
     version: 1.2.3
   - apiVersion: v1
     appVersion: 3.9.1
     created: 2019-09-27T20:56:45.209472252Z
     description: IBM Aspera High-Speed Transfer Server
     digest: be3e04ca190b908ece40f10a12322e8ba1f500e6132d3452ea27629038bebb7e
-    icon: https://raw.githubusercontent.com/IBM/charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
     keywords:
     - Aspera
     - amd64
@@ -256,7 +256,7 @@ entries:
     name: ibm-aspera-hsts-icp4i
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.2.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-aspera-hsts-icp4i-1.2.2.tgz
     version: 1.2.2
   ibm-aspera-hsts-prod:
   - apiVersion: v1
@@ -264,7 +264,7 @@ entries:
     created: 2019-12-01T15:07:50.651432252Z
     description: IBM Aspera High-Speed Transfer Server
     digest: e71bcbeb6e22568437f3a4053b9bc367631559080e9512bb60846d03da91c7d7
-    icon: https://raw.githubusercontent.com/IBM/charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
     keywords:
     - Aspera
     - amd64
@@ -279,14 +279,14 @@ entries:
     name: ibm-aspera-hsts-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-aspera-hsts-prod-1.2.3.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-aspera-hsts-prod-1.2.3.tgz
     version: 1.2.3
   - apiVersion: v1
     appVersion: 3.9.1
     created: 2019-09-26T20:24:44.166334275Z
     description: IBM Aspera High-Speed Transfer Server
     digest: d20b1219089bf77ab15e2f24a81b07d2a832bc91eb6f115a2a763204dfc5df9b
-    icon: https://raw.githubusercontent.com/IBM/charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/stable/ibm-aspera-cli/ibm_cloud_pak/pak_extensions/logo/aspera.svg?sanitize=true
     keywords:
     - Aspera
     - amd64
@@ -301,7 +301,7 @@ entries:
     name: ibm-aspera-hsts-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-aspera-hsts-prod-1.2.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-aspera-hsts-prod-1.2.2.tgz
     version: 1.2.2
   ibm-cloud-appmgmt-prod:
   - appVersion: 2020.1.0.1
@@ -322,7 +322,7 @@ entries:
     name: ibm-cloud-appmgmt-prod
     tillerVersion: '>=2.10.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cloud-appmgmt-prod-1.7.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cloud-appmgmt-prod-1.7.1.tgz
     version: 1.7.1
   - appVersion: 2020.1.0
     created: 2020-03-27T17:11:16.610038671Z
@@ -342,7 +342,7 @@ entries:
     name: ibm-cloud-appmgmt-prod
     tillerVersion: '>=2.10.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cloud-appmgmt-prod-1.7.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cloud-appmgmt-prod-1.7.0.tgz
     version: 1.7.0
   - appVersion: 2019.4.0
     created: 2019-12-13T15:11:56.329074397Z
@@ -362,7 +362,7 @@ entries:
     name: ibm-cloud-appmgmt-prod
     tillerVersion: '>=2.10.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cloud-appmgmt-prod-1.6.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cloud-appmgmt-prod-1.6.0.tgz
     version: 1.6.0
   ibm-cp4mcm-cloud-native-monitoring:
   - appVersion: 2021.1.0
@@ -381,7 +381,7 @@ entries:
     name: ibm-cp4mcm-cloud-native-monitoring
     tillerVersion: '>=2.12.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-2.2.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-2.2.1.tgz
     version: 2.2.1
   - appVersion: 2020.4.0
     created: 2020-12-11T16:00:35.069737543Z
@@ -399,7 +399,7 @@ entries:
     name: ibm-cp4mcm-cloud-native-monitoring
     tillerVersion: '>=2.12.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-2.2.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-2.2.0.tgz
     version: 2.2.0
   - appVersion: 2020.3.0
     created: 2020-10-16T13:57:46.669619195Z
@@ -417,7 +417,7 @@ entries:
     name: ibm-cp4mcm-cloud-native-monitoring
     tillerVersion: '>=2.12.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-2.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-2.1.0.tgz
     version: 2.1.0
   - appVersion: 2020.2.0
     created: 2020-08-07T17:24:55.39893773Z
@@ -435,7 +435,7 @@ entries:
     name: ibm-cp4mcm-cloud-native-monitoring
     tillerVersion: '>=2.12.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-1.3.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cp4mcm-cloud-native-monitoring-1.3.0.tgz
     version: 1.3.0
   ibm-cpq-prod:
   - apiVersion: v1
@@ -443,7 +443,7 @@ entries:
     created: 2020-03-18T15:46:53.465987283Z
     description: Chart for deploying IBM Cost Price Quote Enterprise Edition
     digest: 7e4af09a2b97102a8c70a06ef8ebcb6dc3ba1f7b9281702aa5f410f777b37f50
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-oms-logo.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-oms-logo.png
     keywords:
     - cpq
     - ifs
@@ -462,7 +462,7 @@ entries:
     name: ibm-cpq-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-cpq-prod-1.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-cpq-prod-1.0.0.tgz
     version: 1.0.0
   ibm-datapower-icp4i:
   - apiVersion: v1
@@ -484,10 +484,10 @@ entries:
     kubeVersion: '>=1.9.3'
     name: ibm-datapower-icp4i
     sources:
-    - https://github.com/IBM/charts/tree/master/stable
+    - https://github.com/marcusramberg/IBM-charts/tree/master/stable
     tillerVersion: '>=2.7.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-datapower-icp4i-1.0.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-datapower-icp4i-1.0.6.tgz
     version: 1.0.6
   - apiVersion: v1
     appVersion: 2018.4.1.8
@@ -508,10 +508,10 @@ entries:
     kubeVersion: '>=1.9.3'
     name: ibm-datapower-icp4i
     sources:
-    - https://github.com/IBM/charts/tree/master/stable
+    - https://github.com/marcusramberg/IBM-charts/tree/master/stable
     tillerVersion: '>=2.7.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-datapower-icp4i-1.0.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-datapower-icp4i-1.0.5.tgz
     version: 1.0.5
   - apiVersion: v1
     appVersion: 2018.4.1.7
@@ -532,17 +532,17 @@ entries:
     kubeVersion: '>=1.9.3'
     name: ibm-datapower-icp4i
     sources:
-    - https://github.com/IBM/charts/tree/master/stable
+    - https://github.com/marcusramberg/IBM-charts/tree/master/stable
     tillerVersion: '>=2.7.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-datapower-icp4i-1.0.4.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-datapower-icp4i-1.0.4.tgz
     version: 1.0.4
   ibm-eam-prod:
   - appVersion: "1.1"
     created: 2020-06-08T20:33:46.142082323Z
     description: IBM Edge Application Manager
     digest: 779c2862f36546a23c7bde5344964c413623a2391ec827189f47a5a130f8bdfd
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/icp-logo-box.svg
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/icp-logo-box.svg
     keywords:
     - amd64
     - ICPRHOCP
@@ -553,7 +553,7 @@ entries:
     name: ibm-eam-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-eam-prod-4.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-eam-prod-4.1.0.tgz
     version: 4.1.0
   ibm-eventstreams-icp4i-prod:
   - appVersion: 2019.4.3
@@ -574,7 +574,7 @@ entries:
     name: ibm-eventstreams-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-eventstreams-icp4i-prod-1.4.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-eventstreams-icp4i-prod-1.4.2.tgz
     version: 1.4.2
   - appVersion: 2019.4.2
     created: 2020-03-30T21:48:13.111250157Z
@@ -594,7 +594,7 @@ entries:
     name: ibm-eventstreams-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-eventstreams-icp4i-prod-1.4.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-eventstreams-icp4i-prod-1.4.1.tgz
     version: 1.4.1
   - appVersion: 2019.4.1
     created: 2020-03-15T17:34:34.255956409Z
@@ -614,7 +614,7 @@ entries:
     name: ibm-eventstreams-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-eventstreams-icp4i-prod-1.4.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-eventstreams-icp4i-prod-1.4.0.tgz
     version: 1.4.0
   ibm-eventstreams-rhel-icp4i-prod:
   - appVersion: 1.3.2
@@ -634,7 +634,7 @@ entries:
     name: ibm-eventstreams-rhel-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-eventstreams-rhel-icp4i-prod-1.3.3.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-eventstreams-rhel-icp4i-prod-1.3.3.tgz
     version: 1.3.3
   - appVersion: 1.3.2
     created: 2020-03-09T13:14:56.806094373-07:00
@@ -652,7 +652,7 @@ entries:
     name: ibm-eventstreams-rhel-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-eventstreams-rhel-icp4i-prod-1.3.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-eventstreams-rhel-icp4i-prod-1.3.2.tgz
     version: 1.3.2
   ibm-fci-entity-research-prod:
   - apiVersion: v1
@@ -670,7 +670,7 @@ entries:
     name: ibm-fci-entity-research-prod
     tillerVersion: '>=2.10.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-fci-entity-research-prod-6.6.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-fci-entity-research-prod-6.6.0.tgz
     version: 6.6.0
   ibm-guardium-insights-prod:
   - apiVersion: v1
@@ -686,7 +686,7 @@ entries:
     digest: afddbccf6e98ab8e8d60ec7197160a1075aa3da1da0ce7e61da987226f6fc468
     engine: gotpl
     home: https://www.ibm.com/security
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Guardium
     - Database
@@ -700,7 +700,7 @@ entries:
     name: ibm-guardium-insights-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-guardium-insights-prod-2.5.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-guardium-insights-prod-2.5.2.tgz
     version: 2.5.2
   - apiVersion: v1
     appVersion: 2.5.1
@@ -715,7 +715,7 @@ entries:
     digest: 9be3331e1e1993083f08944353ec8dd56dc63ce436448eb4cb2ccd77e1d29afd
     engine: gotpl
     home: https://www.ibm.com/security
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Guardium
     - Database
@@ -729,7 +729,7 @@ entries:
     name: ibm-guardium-insights-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-guardium-insights-prod-2.5.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-guardium-insights-prod-2.5.1.tgz
     version: 2.5.1
   - apiVersion: v1
     appVersion: 2.5.0
@@ -744,7 +744,7 @@ entries:
     digest: a0f6ba267734826dd042d2795ea78274a5b341fd02606b5489dfc8860b874a8a
     engine: gotpl
     home: https://www.ibm.com/security
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Guardium
     - Database
@@ -758,7 +758,7 @@ entries:
     name: ibm-guardium-insights-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-guardium-insights-prod-2.5.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-guardium-insights-prod-2.5.0.tgz
     version: 2.5.0
   ibm-icp4i-asset-repo-prod:
   - appVersion: 2020.1.1
@@ -793,7 +793,7 @@ entries:
     name: ibm-icp4i-asset-repo-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-4.0.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-4.0.1.tgz
     version: 4.0.1
   - appVersion: 2020.1.1
     created: 2020-03-30T20:17:49.339748968Z
@@ -827,7 +827,7 @@ entries:
     name: ibm-icp4i-asset-repo-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-4.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-4.0.0.tgz
     version: 4.0.0
   - appVersion: 2019.4.2
     created: 2019-11-29T00:42:47.579477449Z
@@ -861,7 +861,7 @@ entries:
     name: ibm-icp4i-asset-repo-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-3.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-3.0.0.tgz
     version: 3.0.0
   - appVersion: 2019.3.2.2
     created: 2020-07-31T12:06:48.966966372Z
@@ -895,7 +895,7 @@ entries:
     name: ibm-icp4i-asset-repo-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.2.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.2.1.tgz
     version: 2.2.1
   - appVersion: 2019.3.2.2
     created: 2019-10-31T18:12:51.548576653Z
@@ -929,7 +929,7 @@ entries:
     name: ibm-icp4i-asset-repo-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.2.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.2.0.tgz
     version: 2.2.0
   - appVersion: 2019.3.2.1
     created: 2019-10-11T06:48:03.122752554Z
@@ -963,7 +963,7 @@ entries:
     name: ibm-icp4i-asset-repo-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.1.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.1.1.tgz
     version: 2.1.1
   - appVersion: 2019.3.2
     created: 2019-09-26T13:58:25.668068831Z
@@ -997,14 +997,14 @@ entries:
     name: ibm-icp4i-asset-repo-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-asset-repo-prod-2.1.0.tgz
     version: 2.1.0
   ibm-icp4i-prod:
   - appVersion: 2020.1.1
     created: 2020-07-31T15:45:34.177648221Z
     description: A Helm chart for the IBM Cloud Pak for Integration Navigator
     digest: 856c86ac2967dac2b6d9f7287bec4e7e8f7159bd0e8247aba8f286feecef5afb
-    icon: https://github.com/IBM/charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
+    icon: https://github.com/marcusramberg/IBM-charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
     keywords:
     - ACE
     - API
@@ -1034,13 +1034,13 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-3.1.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-3.1.1.tgz
     version: 3.1.1
   - appVersion: 2020.1.1
     created: 2020-03-30T20:17:49.345732888Z
     description: A Helm chart for the IBM Cloud Pak for Integration Navigator
     digest: 233db25300caa5b49fd0fac268276f93d0b7f95fe74a9fdd84cde5fcf7daafa5
-    icon: https://github.com/IBM/charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
+    icon: https://github.com/marcusramberg/IBM-charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
     keywords:
     - ACE
     - API
@@ -1070,13 +1070,13 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-3.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-3.1.0.tgz
     version: 3.1.0
   - appVersion: 2019.4.1
     created: 2019-12-04T23:42:52.411511048Z
     description: A Helm chart for the IBM Cloud Pak for Integration Navigator
     digest: 4f9903e3ba99e2cae5d4e4d84202af88565e4109dd63b80d099bcde7c4c4fcc8
-    icon: https://github.com/IBM/charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
+    icon: https://github.com/marcusramberg/IBM-charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
     keywords:
     - ACE
     - API
@@ -1106,13 +1106,13 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-3.0.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-3.0.1.tgz
     version: 3.0.1
   - appVersion: 2019.4.1
     created: 2019-11-29T00:42:47.584599287Z
     description: A Helm chart for the IBM Cloud Pak for Integration Navigator
     digest: 41240697e278df4de596ca112fcc43be0c8ccbca40e6f1153d86f4ed02abf060
-    icon: https://github.com/IBM/charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
+    icon: https://github.com/marcusramberg/IBM-charts/raw/master/entitled/ibm-icp4i-prod/ibm_cloud_pak/logo/app-icon-light-theme.png
     keywords:
     - ACE
     - API
@@ -1142,7 +1142,7 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-3.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-3.0.0.tgz
     version: 3.0.0
   - appVersion: 2019.3.2.2
     created: 2020-07-31T12:34:19.499185221Z
@@ -1177,7 +1177,7 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-2.2.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-2.2.2.tgz
     version: 2.2.2
   - appVersion: 2019.3.2.2
     created: 2019-11-05T17:25:50.164287667Z
@@ -1212,7 +1212,7 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-2.2.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-2.2.1.tgz
     version: 2.2.1
   - appVersion: 2019.3.2.2
     created: 2019-10-31T17:17:46.463475545Z
@@ -1247,7 +1247,7 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-2.2.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-2.2.0.tgz
     version: 2.2.0
   - appVersion: 2019.3.2.1
     created: 2019-10-11T06:48:03.126144492Z
@@ -1282,7 +1282,7 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-2.1.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-2.1.2.tgz
     version: 2.1.2
   - appVersion: 2019.3.1
     created: 2019-09-28T12:28:59.903207776Z
@@ -1317,7 +1317,7 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-2.1.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-2.1.1.tgz
     version: 2.1.1
   - appVersion: 2019.3.1
     created: 2019-09-23T19:31:09.5418174Z
@@ -1352,7 +1352,7 @@ entries:
     name: ibm-icp4i-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-prod-2.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-prod-2.1.0.tgz
     version: 2.1.0
   ibm-icp4i-tracing-prod:
   - apiVersion: v1
@@ -1380,7 +1380,7 @@ entries:
     name: ibm-icp4i-tracing-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-tracing-prod-1.0.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-tracing-prod-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 2019.4.1
@@ -1408,7 +1408,7 @@ entries:
     name: ibm-icp4i-tracing-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-tracing-prod-1.0.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-tracing-prod-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 2019.3.2.2
@@ -1436,7 +1436,7 @@ entries:
     name: ibm-icp4i-tracing-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-icp4i-tracing-prod-1.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-icp4i-tracing-prod-1.0.0.tgz
     version: 1.0.0
   ibm-mobilefoundation-prod:
   - apiVersion: v1
@@ -1463,7 +1463,7 @@ entries:
     name: ibm-mobilefoundation-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mobilefoundation-prod-3.0.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mobilefoundation-prod-3.0.5.tgz
     version: 3.0.5
   ibm-mqadvanced-server-integration-prod:
   - apiVersion: v1
@@ -1471,7 +1471,7 @@ entries:
     created: 2020-03-30T20:17:49.350478959Z
     description: IBM MQ queue manager for Cloud Pak for Integration
     digest: 46fc2248e125ef785f4beb6daf7264e90b969cd2136f80f21da5d547fc72674c
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - ICPRHOCP
     - amd64
@@ -1482,14 +1482,14 @@ entries:
     name: ibm-mqadvanced-server-integration-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-6.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v1
     appVersion: 9.1.3.0
     created: 2019-11-29T00:42:47.589464068Z
     description: IBM MQ queue manager for Cloud Pak for Integration
     digest: b8c8166847485f52fd05498c24fe801ed6bb1e6b9c0846b6cd42e925efebae38
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1501,14 +1501,14 @@ entries:
     name: ibm-mqadvanced-server-integration-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-5.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-5.0.0.tgz
     version: 5.0.0
   - apiVersion: v1
     appVersion: 9.1.3.0
     created: 2019-10-31T17:17:46.468089886Z
     description: IBM MQ queue manager for Cloud Pak for Integration
     digest: b16c09c0967bbe89858099f06e4747ae786f4e661bda29a9b3865537e7aa0b39
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1520,14 +1520,14 @@ entries:
     name: ibm-mqadvanced-server-integration-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.1.0.tgz
     version: 4.1.0
   - apiVersion: v1
     appVersion: 9.1.3.0
     created: 2019-10-01T16:18:29.098458372Z
     description: IBM MQ queue manager for Cloud Pak for Integration
     digest: f45c44c8874b87b15a7939c70635c06c02bff503a7031d041fe28de694e687d6
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1539,14 +1539,14 @@ entries:
     name: ibm-mqadvanced-server-integration-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.0.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.0.2.tgz
     version: 4.0.2
   - apiVersion: v1
     appVersion: 9.1.3.0
     created: 2019-09-25T15:42:12.089279093Z
     description: IBM MQ queue manager for Cloud Pak for Integration
     digest: ab5556ecc059591a9d68878b3545888e4ed1431424d4bd11203f7e328d2c9edf
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1558,14 +1558,14 @@ entries:
     name: ibm-mqadvanced-server-integration-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.0.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.0.1.tgz
     version: 4.0.1
   - apiVersion: v1
     appVersion: 9.1.3.0
     created: 2019-09-25T13:28:21.988141372Z
     description: IBM MQ queue manager for Cloud Pak for Integration
     digest: 5a9a785dfaed02b7588cefc270c512792c73702cafaa1fd13cc4ee80f3a6f54c
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1577,7 +1577,7 @@ entries:
     name: ibm-mqadvanced-server-integration-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-integration-prod-4.0.0.tgz
     version: 4.0.0
   ibm-mqadvanced-server-prod:
   - apiVersion: v1
@@ -1585,7 +1585,7 @@ entries:
     created: 2020-04-03T16:09:29.133248844Z
     description: IBM MQ queue manager
     digest: 22c40b20b2bc116c06348104f4f62ecd8f55c6f884e760da46664e0a03878dc7
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - RHOCP
     - ROKS
@@ -1593,18 +1593,17 @@ entries:
     - Commercial
     - message queue
     - Integration
-    kubeVersion: '>=1.11.0'
     name: ibm-mqadvanced-server-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-prod-6.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-prod-6.0.0.tgz
     version: 6.0.0
   - apiVersion: v1
     appVersion: 9.1.4.0
     created: 2019-12-06T16:15:45.545892719Z
     description: IBM MQ queue manager
     digest: f0de1b57c76e9a6ce00489479ce83b2743a21f0a15f55710b791ed018ed35c6e
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-mq-blue-icon.png
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-mq-blue-icon.png
     keywords:
     - RHOCP
     - ROKS
@@ -1614,11 +1613,10 @@ entries:
     - Commercial
     - message queue
     - Integration
-    kubeVersion: '>=1.11.0'
     name: ibm-mqadvanced-server-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mqadvanced-server-prod-5.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mqadvanced-server-prod-5.0.0.tgz
     version: 5.0.0
   ibm-mss-prod:
   - apiVersion: v1
@@ -1642,7 +1640,7 @@ entries:
     name: ibm-mss-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-mss-prod-1.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-mss-prod-1.0.0.tgz
     version: 1.0.0
   ibm-netcool-prod:
   - apiVersion: v1
@@ -1650,7 +1648,7 @@ entries:
     created: 2020-12-09T22:35:55.007317255Z
     description: A Helm chart for IBM® Netcool® Operations Insight on Kubernetes
     digest: f2daecd707094faad28cd1c737ea7359a498c4c21747e248bd695861eb670622
-    icon: https://github.com/IBM/charts/raw/master/logo/ibm-netcool-prod-icon-blue.png
+    icon: https://github.com/marcusramberg/IBM-charts/raw/master/logo/ibm-netcool-prod-icon-blue.png
     keywords:
     - IBM
     - Commercial
@@ -1667,14 +1665,14 @@ entries:
     name: ibm-netcool-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-netcool-prod-2.1.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-netcool-prod-2.1.6.tgz
     version: 2.1.6
   - apiVersion: v1
     appVersion: 1.6.2
     created: 2020-09-25T17:10:38.693212101Z
     description: A Helm chart for IBM® Netcool® Operations Insight on Kubernetes
     digest: 4de36f8a79ba832b0d8019ae1b63135d3b7d448cea95b0e97a9dcbbbfff1143d
-    icon: https://github.com/IBM/charts/raw/master/logo/ibm-netcool-prod-icon-blue.png
+    icon: https://github.com/marcusramberg/IBM-charts/raw/master/logo/ibm-netcool-prod-icon-blue.png
     keywords:
     - IBM
     - Commercial
@@ -1691,14 +1689,14 @@ entries:
     name: ibm-netcool-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-netcool-prod-2.1.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-netcool-prod-2.1.5.tgz
     version: 2.1.5
   - apiVersion: v1
     appVersion: 1.6.1
     created: 2020-09-07T14:31:19.14790577Z
     description: A Helm chart for IBM® Netcool® Operations Insight on Kubernetes
     digest: abea652769afb8bdcbab782fc4e12bec827d62623c778f12c56f6bc2c0dd24dc
-    icon: https://github.com/IBM/charts/raw/master/logo/ibm-netcool-prod-icon-blue.png
+    icon: https://github.com/marcusramberg/IBM-charts/raw/master/logo/ibm-netcool-prod-icon-blue.png
     keywords:
     - IBM
     - Commercial
@@ -1716,7 +1714,7 @@ entries:
     name: ibm-netcool-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-netcool-prod-2.1.4.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-netcool-prod-2.1.4.tgz
     version: 2.1.4
   ibm-odm-prod:
   - apiVersion: v1
@@ -1740,10 +1738,10 @@ entries:
     - name: ODMDev
     name: ibm-odm-prod
     sources:
-    - https://github.com/IBM/charts/tree/master/stable
+    - https://github.com/marcusramberg/IBM-charts/tree/master/stable
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-odm-prod-21.2.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-odm-prod-21.2.0.tgz
     version: 21.2.0
   - apiVersion: v1
     appVersion: 8.10.5.0
@@ -1766,10 +1764,10 @@ entries:
     - name: ODMDev
     name: ibm-odm-prod
     sources:
-    - https://github.com/IBM/charts/tree/master/stable
+    - https://github.com/marcusramberg/IBM-charts/tree/master/stable
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-odm-prod-21.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-odm-prod-21.1.0.tgz
     version: 21.1.0
   - apiVersion: v1
     appVersion: 8.10.5.0
@@ -1792,10 +1790,10 @@ entries:
     - name: ODMDev
     name: ibm-odm-prod
     sources:
-    - https://github.com/IBM/charts/tree/master/stable
+    - https://github.com/marcusramberg/IBM-charts/tree/master/stable
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-odm-prod-20.3.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-odm-prod-20.3.0.tgz
     version: 20.3.0
   ibm-security-foundations-prod:
   - apiVersion: v2
@@ -1807,7 +1805,7 @@ entries:
       here: http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-GBLK-BNGLB3\""
     digest: 8f7c675b397f969f737d829ecae9a54e7fc4ef9da0f758493b7de9f9dacad12e
     home: https://www.ibm.com/security
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1820,13 +1818,13 @@ entries:
     - name: IBM
     name: ibm-security-foundations-prod
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.8.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.8.tgz
     version: 1.0.8
   - appVersion: 1.3.0.1
     created: 2020-07-16T17:32:58.396777318Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: 8a0d21f341f16c02ef30c9aa5e26592380713fb0dd40fb3e0fecc4b03d841152
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1838,13 +1836,13 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.10'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.7.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.7.tgz
     version: 1.0.7
   - appVersion: 1.3.0.0
     created: 2020-05-26T17:00:35.866029485Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: a99582892850d4d0fe5b00b91a30ad033b0c6d6ea3be770730cde0a91cab8005
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1856,13 +1854,13 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.10'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.6.tgz
     version: 1.0.6
   - appVersion: 1.2.0.0
     created: 2020-03-25T21:06:38.567587192Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: e6207878953191e9923feefa39064996aaabd7d31cab9122de91d9465f588faa
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1874,13 +1872,13 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.10'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.5.tgz
     version: 1.0.5
   - appVersion: 1.1.0.2
     created: 2020-02-12T01:01:13.629315675Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: cfe3f1425f7040b6fbeae4869d6a9e5283675791bddb6ada14bf925dc6f02722
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1892,13 +1890,13 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.4.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.4.tgz
     version: 1.0.4
   - appVersion: 1.1.0.1
     created: 2020-02-05T01:49:05.147068244Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: f3003df56a4b0759b08caf09f018791ab827ef95a9cea2c2c3adabbe99cfd42d
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1910,13 +1908,13 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.3.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.3.tgz
     version: 1.0.3
   - appVersion: 1.1.0.1
     created: 2019-12-13T03:24:57.288866291Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: c942edf8b604fef065f6c305e937a8c3df0ac5ce11218cdf6e4d2b0c1720032a
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1928,13 +1926,13 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.2.tgz
     version: 1.0.2
   - appVersion: 1.1.0.1
     created: 2019-12-11T22:41:41.007874589Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: 1956ac6edc56f04e8aec87d17bf607877b48b98fd9941e07453e222aac5e7123
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1946,13 +1944,13 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.1.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.1.tgz
     version: 1.0.1
   - appVersion: 1.1.0
     created: 2019-11-15T22:11:58.437694802Z
     description: IBM Cloud Pak for Security - Shared Operators & Infrastructural Services
     digest: 61d680bcc272b8184a8995c0700bddfa6d03d1724e75beabe561be61af8972f5
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - amd64
     - Commercial
@@ -1964,7 +1962,7 @@ entries:
     name: ibm-security-foundations-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-foundations-prod-1.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-foundations-prod-1.0.0.tgz
     version: 1.0.0
   ibm-security-solutions-prod:
   - apiVersion: v2
@@ -1975,7 +1973,7 @@ entries:
       license terms can be viewed here: http://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-GBLK-BNGLB3\""
     digest: 318091e8addaacc5cf6613c546e22c60daba00c158c9f2c9c140f81cac149b54
     home: https://www.ibm.com/security
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -1993,13 +1991,13 @@ entries:
     - name: IBM
     name: ibm-security-solutions-prod
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.8.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.8.tgz
     version: 1.0.8
   - appVersion: 1.3.0.1
     created: 2020-07-16T16:18:32.972806664Z
     description: IBM Cloud Pak For Security Shared Platform Services
     digest: 44182ff45f2236e8915268bda6b18a3aecaf4dfe4417c307df7e439c8b4b8483
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -2016,13 +2014,13 @@ entries:
     name: ibm-security-solutions-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.7.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.7.tgz
     version: 1.0.7
   - appVersion: 1.3.0.0
     created: 2020-05-26T17:00:35.906843721Z
     description: IBM Cloud Pak For Security Shared Platform Services
     digest: 22db88427765a1441652f797f4579165ea35e6eecde0bafa0fb634156df70f9a
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -2039,13 +2037,13 @@ entries:
     name: ibm-security-solutions-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.6.tgz
     version: 1.0.6
   - appVersion: 1.2.0.0
     created: 2020-03-25T20:42:45.39320473Z
     description: IBM Cloud Pak For Security Shared Platform Services
     digest: b6b0831ee9d28de20d60469b5381f428b14365e88ccb2b72da5bf2668d9772e7
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -2061,13 +2059,13 @@ entries:
     name: ibm-security-solutions-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.5.tgz
     version: 1.0.5
   - appVersion: 1.1.0.2
     created: 2020-02-11T22:45:54.241912211Z
     description: IBM Cloud Pak For Security Shared Platform Services
     digest: 3c9c542eb6a0777de170624923c9dec72535fcd92545c0046863694c79ee1521
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -2084,13 +2082,13 @@ entries:
     name: ibm-security-solutions-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.4.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.4.tgz
     version: 1.0.4
   - appVersion: 1.1.0.1
     created: 2020-02-04T21:25:34.461188803Z
     description: IBM Cloud Pak For Security Shared Platform Services
     digest: 55ab77d7fbcec01649a53900e426f2a79bd195ff88e49d28385d6c8ac5c52d14
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -2107,13 +2105,13 @@ entries:
     name: ibm-security-solutions-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.3.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.3.tgz
     version: 1.0.3
   - appVersion: 1.1.0.1
     created: 2019-12-13T03:24:57.309882921Z
     description: IBM Cloud Pak For Security Shared Platform Services
     digest: db7d6bc76ea8214bc0e4d25b4204797ba00e03f3d71d2b51f953f55c3c3481b6
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -2130,13 +2128,13 @@ entries:
     name: ibm-security-solutions-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.2.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.2.tgz
     version: 1.0.2
   - appVersion: 1.1.0
     created: 2019-12-12T22:11:47.092917952-05:00
     description: IBM Cloud Pak For Security Shared Platform Services
     digest: 6fc1851d24ac8fb7bc44719889ef24939847a9825a219bfc21bcc80045f698cd
-    icon: http://raw.githubusercontent.com/IBM/charts/master/logo/IBM-Security-icon.png
+    icon: http://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/IBM-Security-icon.png
     keywords:
     - Resilient
     - Cases
@@ -2153,7 +2151,7 @@ entries:
     name: ibm-security-solutions-prod
     tillerVersion: '>=2.12.3'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-security-solutions-prod-1.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-security-solutions-prod-1.0.0.tgz
     version: 1.0.0
   ibm-spectrum-protect-plus-prod:
   - apiVersion: v2
@@ -2184,7 +2182,7 @@ entries:
     - name: IBM
     name: ibm-spectrum-protect-plus-prod
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-spectrum-protect-plus-prod-1.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-spectrum-protect-plus-prod-1.1.0.tgz
     version: 1.1.0
   - apiVersion: v1
     appVersion: 10.1.6
@@ -2202,7 +2200,7 @@ entries:
     name: ibm-spectrum-protect-plus-prod
     tillerVersion: '>=2.16.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-spectrum-protect-plus-prod-1.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-spectrum-protect-plus-prod-1.0.0.tgz
     version: 1.0.0
   ibm-ucd-prod:
   - apiVersion: v1
@@ -2228,7 +2226,7 @@ entries:
     name: ibm-ucd-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucd-prod-6.0.8.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucd-prod-6.0.8.tgz
     version: 6.0.8
   - apiVersion: v1
     appVersion: 7.0.5
@@ -2253,7 +2251,7 @@ entries:
     name: ibm-ucd-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucd-prod-6.0.7.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucd-prod-6.0.7.tgz
     version: 6.0.7
   - apiVersion: v1
     appVersion: 7.0.5
@@ -2278,7 +2276,7 @@ entries:
     name: ibm-ucd-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucd-prod-6.0.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucd-prod-6.0.6.tgz
     version: 6.0.6
   - apiVersion: v1
     appVersion: 7.0.4
@@ -2303,7 +2301,7 @@ entries:
     name: ibm-ucd-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucd-prod-6.0.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucd-prod-6.0.5.tgz
     version: 6.0.5
   - apiVersion: v1
     appVersion: 7.0.4
@@ -2328,7 +2326,7 @@ entries:
     name: ibm-ucd-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucd-prod-6.0.4.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucd-prod-6.0.4.tgz
     version: 6.0.4
   ibm-ucda-prod:
   - apiVersion: v1
@@ -2354,7 +2352,7 @@ entries:
     name: ibm-ucda-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucda-prod-2.1.9.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucda-prod-2.1.9.tgz
     version: 2.1.9
   - apiVersion: v1
     appVersion: 7.0.5
@@ -2379,7 +2377,7 @@ entries:
     name: ibm-ucda-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucda-prod-2.1.8.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucda-prod-2.1.8.tgz
     version: 2.1.8
   - apiVersion: v1
     appVersion: 7.0.5
@@ -2404,7 +2402,7 @@ entries:
     name: ibm-ucda-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucda-prod-2.1.7.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucda-prod-2.1.7.tgz
     version: 2.1.7
   - apiVersion: v1
     appVersion: 7.0.4
@@ -2429,7 +2427,7 @@ entries:
     name: ibm-ucda-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucda-prod-2.1.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucda-prod-2.1.6.tgz
     version: 2.1.6
   - apiVersion: v1
     appVersion: 7.0.4
@@ -2454,7 +2452,7 @@ entries:
     name: ibm-ucda-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucda-prod-2.1.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucda-prod-2.1.5.tgz
     version: 2.1.5
   ibm-ucdr-prod:
   - apiVersion: v1
@@ -2480,7 +2478,7 @@ entries:
     name: ibm-ucdr-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucdr-prod-2.0.9.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucdr-prod-2.0.9.tgz
     version: 2.0.9
   - apiVersion: v1
     appVersion: 7.0.5
@@ -2505,7 +2503,7 @@ entries:
     name: ibm-ucdr-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucdr-prod-2.0.8.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucdr-prod-2.0.8.tgz
     version: 2.0.8
   - apiVersion: v1
     appVersion: 7.0.5
@@ -2530,7 +2528,7 @@ entries:
     name: ibm-ucdr-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucdr-prod-2.0.7.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucdr-prod-2.0.7.tgz
     version: 2.0.7
   - apiVersion: v1
     appVersion: 7.0.4
@@ -2555,7 +2553,7 @@ entries:
     name: ibm-ucdr-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucdr-prod-2.0.6.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucdr-prod-2.0.6.tgz
     version: 2.0.6
   - apiVersion: v1
     appVersion: 7.0.4
@@ -2580,7 +2578,7 @@ entries:
     name: ibm-ucdr-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucdr-prod-2.0.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucdr-prod-2.0.5.tgz
     version: 2.0.5
   ibm-ucv-prod:
   - apiVersion: v1
@@ -2588,7 +2586,7 @@ entries:
     created: 2020-11-19T00:33:00.906327018Z
     description: IBM UrbanCode Velocity
     digest: 6d748a2e7052c1ea87b0482e163406b752e492c38cd5aaa4d946b2f1c2c7e60f
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-ucv-sailboat-logo.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-ucv-sailboat-logo.svg?sanitize=true
     keywords:
     - ucv
     - urbancode
@@ -2601,14 +2599,14 @@ entries:
     name: ibm-ucv-prod
     tillerVersion: '>=2.10.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucv-prod-2.1.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucv-prod-2.1.0.tgz
     version: 2.1.0
   - apiVersion: v1
     appVersion: 1.5.5
     created: 2020-06-26T04:25:24.763585516Z
     description: IBM UrbanCode Velocity
     digest: e87e2afd64a2f106ad05c06f33e40738f425793663f9030b23a59c14a4ce4ca8
-    icon: https://raw.githubusercontent.com/IBM/charts/master/logo/ibm-ucv-sailboat-logo.svg?sanitize=true
+    icon: https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/logo/ibm-ucv-sailboat-logo.svg?sanitize=true
     keywords:
     - ucv
     - urbancode
@@ -2621,7 +2619,7 @@ entries:
     name: ibm-ucv-prod
     tillerVersion: '>=2.10.0'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-ucv-prod-1.5.5.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-ucv-prod-1.5.5.tgz
     version: 1.5.5
   ibm-wml-accelerator-prod:
   - appVersion: 2.1.0
@@ -2647,6 +2645,6 @@ entries:
     name: ibm-wml-accelerator-prod
     tillerVersion: '>=2.9.1'
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/entitled/ibm-wml-accelerator-prod-1.0.0.tgz
+    - https://raw.githubusercontent.com/marcusramberg/IBM-charts/master/repo/entitled/ibm-wml-accelerator-prod-1.0.0.tgz
     version: 1.0.0
 generated: 2021-08-31T22:33:18.759497542Z
